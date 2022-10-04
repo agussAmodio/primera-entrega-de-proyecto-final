@@ -1,0 +1,85 @@
+[
+    {
+        "id": 1,
+        "timestamp": "2/10/2022 13:26:11",
+        "productos": [
+            {
+                "nombre": "monitor",
+                "descripcion": "componente para pc",
+                "codigo": "8756415",
+                "foto": "www.monitor.com.",
+                "precio": "$100000",
+                "stock": "15",
+                "id": 4,
+                "timestamp": "29/9/2022 20:28:12"
+            },
+            {
+                "nombre": "lapiz",
+                "descripcion": "articulo escolar",
+                "codigo": "4152323",
+                "foto": "www.lapiz.com.",
+                "precio": "$100",
+                "stock": "2323",
+                "id": 7,
+                "timestamp": "29/9/2022 20:29:30"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "timestamp": "2/10/2022 13:26:12",
+        "productos": [
+            {
+                "nombre": "remera",
+                "descripcion": "prenda de ropa",
+                "codigo": "565541",
+                "foto": "www.remera.com.",
+                "precio": "$5000",
+                "stock": "35",
+                "id": 2,
+                "timestamp": "29/9/2022 20:27:18"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "timestamp": "2/10/2022 13:26:13",
+        "productos": [
+            {
+                "nombre": "monitor",
+                "descripcion": "componente para pc",
+                "codigo": "8756415",
+                "foto": "www.monitor.com.",
+                "precio": "$100000",
+                "stock": "15",
+                "id": 4,
+                "timestamp": "29/9/2022 20:28:12"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "timestamp": "2/10/2022 13:26:14",
+        "productos": []
+    },
+    {
+        "id": 5,
+        "timestamp": "2/10/2022 13:26:14",
+        "productos": []
+    },
+    {
+        "id": 6,
+        "timestamp": "2/10/2022 13:26:15",
+        "productos": []
+    },
+    {
+        "id": 7,
+        "timestamp": "3/10/2022 19:47:29",
+        "productos": []
+    },
+    {
+        "id": 8,
+        "timestamp": "3/10/2022 19:48:02",
+        "productos": []
+    }
+]
